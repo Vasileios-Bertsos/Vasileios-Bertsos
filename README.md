@@ -19,7 +19,7 @@ Alongside my academic foundation in software development (Java, Python, C), I po
 
 ---
 
-### 📜 Certifications
+### Certifications
 * **Prompt Engineering & Programming with OpenAI | *Columbia+***
   *Focus: Integrating Large Language Models (LLMs) and generative AI into practical software applications.*
   
