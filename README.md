@@ -35,5 +35,5 @@ Alongside my academic foundation in software development (Java, Python, C), I po
 ---
 
 ### Contact Information
-* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL-HERE](https://www.linkedin.com/in/vasileios-bertsos-1060743bb/)
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/vasileios-bertsos-1060743bb/)
 * **Email:** bertsosvasileios@gmail.com
