@@ -6,7 +6,7 @@
 ### Professional Summary
 I am a software engineering student with a primary focus on Artificial Intelligence, algorithmic problem-solving, and physical hardware integration. My objective is to bridge computational logic with real-world physical systems, particularly in the fields of robotics and automation.
 
-Alongside my academic foundation in software development (Java, Python, C), I possess hands-on expertise in rapid prototyping. I independently operate and maintain FDM and Resin 3D printing systems and utilize Blender for 3D modeling, enabling the design and fabrication of custom mechanical components. Furthermore, I hold a certification in Prompt Engineering & Programming with OpenAI from Columbia+, focused on integrating Large Language Models (LLMs) into practical engineering solutions.
+Alongside my academic foundation in software development (Java, Python, C), I possess hands-on expertise in rapid prototyping. I independently operate and maintain FDM and Resin 3D printing systems and utilize Blender for 3D modeling, enabling the design and fabrication of custom mechanical components.
 
 ---
 
@@ -17,6 +17,12 @@ Alongside my academic foundation in software development (Java, Python, C), I po
 * **Systems & Tools:** Git, Linux, VS Code
 * **Hardware & Prototyping:** 3D Printing (FDM & Resin), 3D Modeling (Blender), Rapid Prototyping
 
+---
+
+### 📜 Certifications
+* **Prompt Engineering & Programming with OpenAI | *Columbia+***
+  *Focus: Integrating Large Language Models (LLMs) and generative AI into practical software applications.*
+  
 ---
 
 ### Selected Academic Projects (Spring 2026)
