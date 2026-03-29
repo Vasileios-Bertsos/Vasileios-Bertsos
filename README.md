@@ -1,43 +1,39 @@
-# Hi there, I'm Vasileios! 👋
+# Vasileios Bertsos | Computer Science & Engineering
 
-🎓 **3rd-year Computer Science and Engineering Student @ University of Ioannina (UoI)**
-💻 **IT Support Engineer @ CSE Dept, UoI**
-🤖 **Passionate about Artificial Intelligence, Robotics & Hardware Prototyping**
+**Undergraduate Student** | University of Ioannina (UoI)
+**IT Support Engineer** | Computer Science and Engineering Department, UoI
 
-I am an aspiring software engineer and maker, focused on bridging the gap between algorithmic logic and the physical world. My academic background heavily revolves around **Artificial Intelligence, Data Structures, and Algorithms**. 
+### Professional Summary
+I am a software engineering student with a primary focus on Artificial Intelligence, algorithmic problem-solving, and physical hardware integration. My objective is to bridge computational logic with real-world physical systems, particularly in the fields of robotics and automation.
 
-Beyond writing clean code in **Java, Python, and C**, I am deeply invested in the Maker movement. I independently operate FDM and Resin 3D printers and use **Blender** for 3D modeling, allowing me to rapidly design and prototype custom robotics parts.
-
-I recently earned a certification in **Prompt Engineering & Programming with OpenAI from Columbia+**, aiming to integrate modern LLMs into practical, real-world systems.
+Alongside my academic foundation in software development (Java, Python, C), I possess hands-on expertise in rapid prototyping. I independently operate and maintain FDM and Resin 3D printing systems and utilize Blender for 3D modeling, enabling the design and fabrication of custom mechanical components. Furthermore, I hold a certification in Prompt Engineering & Programming with OpenAI from Columbia+, focused on integrating Large Language Models (LLMs) into practical engineering solutions.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Technical Expertise
 
 * **Programming Languages:** Java, Python, C, MATLAB
-* **Artificial Intelligence:** Search Algorithms (A*, UCS), Metaheuristic Optimization (Simulated Annealing), CSPs, Generative AI (OpenAI API)
-* **Tools & Software:** Git, Linux, VS Code
+* **Artificial Intelligence:** Search Algorithms (A*, UCS), Metaheuristic Optimization (Simulated Annealing), Constraint Satisfaction Problems (CSPs), Generative AI (OpenAI API)
+* **Systems & Tools:** Git, Linux, VS Code
 * **Hardware & Prototyping:** 3D Printing (FDM & Resin), 3D Modeling (Blender), Rapid Prototyping
 
 ---
 
-### 🚀 Current Academic Projects (Spring 2026)
-
-Currently developing complex AI models for my university courses. 
+### Selected Academic Projects (Spring 2026)
 
 * **Intelligent Pathfinding Agent (8-Puzzle Variant) | *Java***
-  * Developed an agent solving a complex 8-puzzle variant with non-standard moves.
-  * Implemented and evaluated **Uniform Cost Search (UCS)** and **A* Search**.
-  * Designed and mathematically justified an admissible heuristic function for optimal performance.
+  * Developed a search agent to solve a complex 8-puzzle variant featuring non-standard state transitions.
+  * Implemented Uniform Cost Search (UCS) and A* Search algorithms.
+  * Designed and mathematically justified an admissible heuristic function to guarantee optimal pathfinding performance.
 
 * **Sudoku Solver via Simulated Annealing | *Java***
-  * Modeled the 9x9 Sudoku grid as a Constraint Satisfaction Problem (CSP).
-  * Built an automated solver using the **Simulated Annealing** metaheuristic optimization algorithm.
+  * Modeled the 9x9 Sudoku grid as a Constraint Satisfaction Problem.
+  * Engineered an automated solver utilizing the Simulated Annealing metaheuristic algorithm to optimize state transitions and efficiently minimize constraint conflicts.
 
-> 🔒 **Note on Academic Integrity:** > *Because the current academic semester is ongoing, the source code for the above AI projects is kept in **Private Repositories** to strictly comply with the University of Ioannina's anti-plagiarism policies. Full access to the code and documentation can be provided to recruiters and academic reviewers upon request.*
+> **Note on Academic Integrity:** > As the current academic semester is ongoing, the source code for the aforementioned AI projects is maintained in private repositories to strictly comply with the University of Ioannina's academic regulations. Full code access and documentation can be provided to recruiters and academic reviewers upon request.
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [Click here to visit my profile](https://www.linkedin.com/in/vasileios-bertsos-1060743bb/) 
+### Contact Information
+* **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL-HERE](https://www.linkedin.com/in/vasileios-bertsos-1060743bb/)
 * **Email:** bertsosvasileios@gmail.com
