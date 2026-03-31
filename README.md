@@ -12,7 +12,7 @@ Alongside my academic foundation in software development (Java, Python, C), I po
 
 ### 📄 Resume
 You can view or download my latest resume here: 
-👉 [**Vasileios Bertsos - Software Engineer Resume (PDF)**](./Vasileios_Bertsos_Resume.pdf)
+👉 [**Vasileios Bertsos - Software Engineer Resume (PDF)**](./Vasileios_Bertsos_Online_Resume.pdf)
 
 ---
 
