@@ -33,16 +33,24 @@ You can view or download my latest resume here:
   
 ---
 
-### Selected Academic Projects (Spring 2026)
+### Selected Academic Projects
+
+* **Sign Language Image Classifier | *Python, Scikit-learn, Pandas, NumPy***
+  * Developed an ML classification pipeline to recognize American Sign Language (ASL) from 27,000+ images, performing
+pixel normalization and stratification.
+  * Trained and evaluated multiple classification models (k-Nearest Neighbors, Support Vector Machines, Decision Trees),
+optimizing hyperparameters to maximize performance.
+  * Achieved exceptional classification accuracy, validated via Accuracy and F1-score metrics.
+  * Implemented a custom prediction algorithm to successfully decode and reconstruct hidden text phrases from sequences of
+unseen test images.
 
 * **Intelligent Pathfinding Agent (8-Puzzle Variant) | *Java***
-  * Developed a search agent to solve a complex 8-puzzle variant featuring non-standard state transitions.
-  * Implemented Uniform Cost Search (UCS) and A* Search algorithms.
-  * Designed and mathematically justified an admissible heuristic function to guarantee optimal pathfinding performance.
+  * Co-developed an AI agent within a student team to solve a complex state-space problem.
+  * Implemented UCS and A* search, designing a mathematically proven admissible heuristic that significantly reduced the algorithm’s search space and execution time.
 
 * **Sudoku Solver via Simulated Annealing | *Java***
-  * Modeled the 9x9 Sudoku grid as a Constraint Satisfaction Problem.
-  * Engineered an automated solver utilizing the Simulated Annealing metaheuristic algorithm to optimize state transitions and efficiently minimize constraint conflicts.
+  * Modeled the 9x9 Sudoku as a Constraint Satisfaction Problem (CSP).
+  * Collaborated to build an automated solver using the Simulated Annealing algorithm to minimize conflicts.
 
 > **Note on Academic Integrity:** > As the current academic semester is ongoing, the source code for the aforementioned AI projects is maintained in private repositories to strictly comply with the University of Ioannina's academic regulations. Full code access and documentation can be provided to recruiters and academic reviewers upon request.
 
