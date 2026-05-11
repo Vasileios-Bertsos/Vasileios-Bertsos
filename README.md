@@ -5,7 +5,9 @@
 
 ### Professional Summary
 As a Computer Science and Engineering student at the University of Ioannina, my journey is driven by an insatiable curiosity to understand how systems work—from the lowest level of hardware circuits to complex Artificial Intelligence algorithms.
+
 I strongly believe in continuous personal and professional evolution. Whether I am developing Machine Learning pipelines for sign language recognition, designing state-space AI agents, or exploring new data-driven technologies, my goal remains the same: to step out of my comfort zone and build impactful technical solutions.
+
 Beyond writing code, I am deeply passionate about knowledge sharing, which led me to co-organize and mentor hands-on technical workshops for over 150 students. I am currently focused on expanding my expertise in Software Engineering, Machine Learning, and Algorithmic Optimization, always eager to connect with like-minded professionals and embrace new challenges.
 
 ---
